@@ -1,0 +1,15 @@
+pywin32
+pynput
+scipy
+cryptography
+requests
+pillow
+sounddevice
+certifi
+chardet
+idna
+numpy
+pycparser
+setuptools
+six
+urllib3
